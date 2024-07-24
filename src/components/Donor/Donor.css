@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+}
+
+/* .donor-container{
+    min-height: 100vh;
+    background: url('../../assets/heart.png');
+    background-size:cover;
+    background-position: center;
+    
+} */
+
+.logo-img{
+    width: 50%;
+    height:40%;
+   
+}
+
+.nav-btn{
+    background-color: inherit;
+        text-transform: uppercase;
+        padding:10px 20px;
+        margin-right: 10px;
+        font-size: 15px;
+        cursor: pointer;
+        display: inline-block;
+        border: 2px solid rgb(230, 69, 69); /* Green */
+        color: black;
+        border-radius: 40px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav-btn:hover {background: rgb(230, 69, 69);}
+
+    .link-btn{
+        text-decoration: none;
+        color:black;
+    }
+
+    .link-btn:hover{
+        color: white;
+    }
+
+
